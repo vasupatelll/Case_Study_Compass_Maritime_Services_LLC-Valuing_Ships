@@ -1,4 +1,4 @@
-# Navigating Ship Valuations: A Comprehensive Analysis of Market Drivers
+# Navigating Ship Valuations: A Comprehensive Analysis of Market Drivers, Harvard Business Review Case Study
 
 ## 📌 Project Description:
 
